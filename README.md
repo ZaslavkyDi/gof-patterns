@@ -1,2 +1,2 @@
 # gof-patterns
-Practice GOF on python 
+Practice GOF with python 
